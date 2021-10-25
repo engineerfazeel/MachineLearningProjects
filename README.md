@@ -1,4 +1,4 @@
-# MachineLearningProjects
+# Project 1 - Regression Task with California Housing Dataset
 
 This is the test readme.
 
